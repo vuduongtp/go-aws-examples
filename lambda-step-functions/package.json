@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "serverless-hooks-plugin": "^1.1.0",
+    "serverless-step-functions": "^3.17.0"
+  }
+}
