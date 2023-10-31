@@ -14,9 +14,9 @@ This is basic example of how to use [Serverless Framework](https://www.serverles
     npm install -g serverless-hooks-plugin
     npm install -g serverless-step-functions
 # Deployment
-Run Serverless deploy:
+Run deploy:
 
-    sls deploy
+    make deploy
 After deploy completely, open [AWS Console](console.aws.amazon.com/) and check result
 ![Result](docs/image/workflow.png)\
 Then copy Step functions ARN.\
